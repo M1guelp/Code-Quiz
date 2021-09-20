@@ -1,0 +1,28 @@
+#wrapper {
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    width: 500px;
+    height: 500px;
+    border: 5px solid rgb(38, 0, 128);
+}
+#startTime {
+    background-color: rgb(38, 0, 128);
+    margin-left: 33%;
+    padding: 15px 32px;
+    font-size: 20px;
+    color: white;
+}
+button {
+    width: auto;
+    margin: 25px;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    margin: 20px;
+}
+
+
